@@ -1,2 +1,2 @@
-# Angry-bird-game-with-animation
-here we added the background!
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
